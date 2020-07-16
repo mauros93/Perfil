@@ -1,0 +1,25 @@
+.ancho{
+    max-width: 90%   
+}
+
+.letra {
+    font-family: "Lobster";
+    font-size: 22px;
+    color: black
+}
+
+.parrafo{
+    font-size: 20px;
+}
+
+.iconos{
+    font-size: 22px;
+}
+
+.iconos1{
+    font-size: 26px;
+}
+
+.fa-github{
+    color: black;
+}
